@@ -1,0 +1,2 @@
+# MyShoppingApps
+Android learning project
